@@ -1,11 +1,11 @@
 # Linguagem Carlos
 
-Uma linguagem de programação e tradutor customizado para processamento de arquivos com extensão `.carlos`.
+Uma linguagem de programação simples, rápida e fácil de aprender. Foi desenvolvida pelo desenvolvedor David Carlos Miranda Delgado (https:\\github.com/davidelgado28), aluno do 4° período do Curso Técnico Integrado em Informática do IFSULDEMINAS - Campus Poços de Caldas.
 
 ---
 
 ## 🚀 Sobre o Projeto
-A **Linguagem Carlos** foi criada para interpretar e traduzir scripts escritos com a extensão `.carlos`. O projeto conta com o código-fonte desenvolvido em Python, scripts de compilação e um instalador automatizado para o Windows.
+A **Linguagem Carlos** foi baseada em uma mistura da execução rápida de C++ com a simplicidade de Python. O projeto conta com o código-fonte desenvolvido em Python, scripts de compilação e um instalador automatizado para o Windows. Tecnicamente, há uma traspilação do arquivo `.carlos` para o `.cpp`. 
 
 ## 📦 Instalação
 1. Faça o download do instalador `carlosc_setup.exe`.
@@ -22,6 +22,13 @@ A **Linguagem Carlos** foi criada para interpretar e traduzir scripts escritos c
 ### Executando pelo Instalador
 1. Crie ou abra um arquivo com a extensão `.carlos` (como o `exemplo.carlos`).
 2. Dê um duplo clique no arquivo para executá-lo diretamente com o interpretador instalado.
+
+## Como Executar 
+
+### Compilação
+> carlosc nome-do-arquivo.carlos
+### Execução
+> .\nome-do-arquivo.exe
 
 ### Executando via Código-Fonte
 Caso prefira rodar o projeto diretamente pelo terminal com Python:
