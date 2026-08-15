@@ -8,9 +8,8 @@ Uma linguagem de programação e tradutor customizado para processamento de arqu
 A **Linguagem Carlos** foi criada para interpretar e traduzir scripts escritos com a extensão `.carlos`. O projeto conta com o código-fonte desenvolvido em Python, scripts de compilação e um instalador automatizado para o Windows.
 
 ## 📦 Instalação
-1. Acesse a página de [Releases](../../releases) deste repositório.
-2. Faça o download do instalador `carlosc_setup.exe`.
-3. Execute o instalador no Windows e siga as etapas do assistente.
+1. Faça o download do instalador `carlosc_setup.exe`.
+2. Execute o instalador no Windows e siga as etapas do assistente.
 
 > ⚠️ **Aviso de Falso Positivo (Windows SmartScreen / Antivírus):**  
 > Como o executável não possui uma assinatura digital paga (certificado EV), o Windows ou alguns antivírus podem exibir um alerta de segurança preventivo. O código é **100% open-source e seguro**.  
