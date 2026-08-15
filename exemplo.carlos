@@ -1,0 +1,19 @@
+#include <carlinho.h>
+
+using namespace facilitador 
+
+int main() {
+    
+    int idade = 16
+    double alt
+
+    cin >> alt; // este é um comentário
+    cout << "A sua altura e: " << alt 
+    
+    if idade >= 18 
+        cout << " Maior de idade." 
+    else
+        cout << " Menor de idade." 
+    
+    return 0;
+}
