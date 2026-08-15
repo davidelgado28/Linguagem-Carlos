@@ -1,6 +1,6 @@
 # Linguagem Carlos
 
-Uma linguagem de programação simples, rápida e fácil de aprender. Foi desenvolvida pelo desenvolvedor [David Carlos Miranda Delgado](github.com/davidelgado28), aluno do 4° período do Curso Técnico Integrado em Informática do IFSULDEMINAS - Campus Poços de Caldas.
+Uma linguagem de programação simples, rápida e fácil de aprender. Foi desenvolvida pelo desenvolvedor [David Carlos Miranda Delgado](https://github.com/davidelgado28), aluno do 4° período do Curso Técnico Integrado em Informática do IFSULDEMINAS - Campus Poços de Caldas.
 
 ---
 
